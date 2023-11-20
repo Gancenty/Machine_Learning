@@ -22,5 +22,5 @@ I am a beginner, So I may make some mistakes while writing code, `please be free
 
 ### Hardware
 - [x] CPU:Inter i5-12400 2.5Ghz
-- [x] RAM:DDR4 32GB
-- [x] GPU:ASUS GeForce RTX3060 12G
+- [x] RAM:DDR4 3200Mhz 32GB
+- [x] GPU:ASUS GeForce RTX3060 12GB
