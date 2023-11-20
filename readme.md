@@ -1,66 +1,26 @@
-1.  Open the file.
-2.  Find the following code block on line 21:
-
+# Welcome to my Machine Learning repository😊
+## Prerequisite
+1.  Install the Anaconda
+2.  Install the pytorch ***(better with `GPU`)*** & Jupyter
+3.  Git clone it
     
-    >this is a quote
-    ```c
-    This is a code segement
     ```
-        <html>
-        <br>    </br>
-        </html>
-3.  Update the title to match the name of your website.
+    git clone https://github.com/Gancenty/Machine_Learning.git
+    ```
 
-*   This is the first list item.
-*   Here's the second list item.
+I am a beginner, So I may make some mistakes while writing code, `please be free to contacting me for the errors.`
 
-    I need to add another paragraph below the second list item.
+### Machine Learning framework
+- [x] softmax
+- [x] Lenet
+- [x] Alexnet
 
-*   ``And here's the third `Here is code block` item.``
+### Machine Learning datasets
+- [x] MNIST
+- [x] FasionMNIST
+- [ ] ImageNet
 
-***
-
-这是一个*分割线* *[link](gancenty.top "gancenty")*
-
-[![img](./bj.jpg "zs")](baidu.com)
-
-<luo@qq.com>
-
-<http://gancenty.top>
-
-
-[hobbit-hole] [<https://en.wikipedia.org/wiki/Hobbit#Lifestyle>]
-
-http://images.google.com/images?num=30&amp;q=larry+bird
-
-&copy;🫶
-
-~~去露营了！ :tent: 很快回来。~~
-
-真好笑！ :joy:
-
-`http://www.example.com`
-
-
-Here's a simple footnote,[^1] and here's a longer one.[^bignote]
-
-[^1]: This is the first footnote.
-
-[^bignote]: Here's one with multiple paragraphs and code.
-
-    Indent paragraphs to include them in the footnote.
-
-    `{ my code }`
-
-    Add as many paragraphs as you like.
-
-
-
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
-
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+### Hardware
+- [x] CPU:Inter i5-12400 2.5Ghz
+- [x] RAM:DDR4 32GB
+- [x] GPU:ASUS GeForce RTX3060 12G
