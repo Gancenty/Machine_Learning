@@ -14,6 +14,7 @@ I am a beginner, So I may make some mistakes while writing code, `please be free
 - [x] softmax
 - [x] Lenet
 - [x] Alexnet
+- [x] VGG & NiN
 
 ### Machine Learning datasets
 - [x] MNIST
